@@ -10,7 +10,7 @@ const FILES_TO_CACHE = [
     '/assets/images/icons/icon-192x192.png',
     '/assets/images/icons/icon-512x512.png',
     '/manifest.webmanifest',
-    // 'https://fonts.googleapis.com/css?family=Istok+Web|Montserrat:800&display=swap',
+    'https://fonts.googleapis.com/css?family=Istok+Web|Montserrat:800&display=swap',
 
 ];
 
