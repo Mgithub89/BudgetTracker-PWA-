@@ -23,6 +23,9 @@ View the [Deloyed App](https://radiant-beyond-19936.herokuapp.com)
 * Clone repo.
 * install all the dependencies(npm i ...). 
 
+## Usage
+* Click on the Deployed app link and try it with or witout internet connection.
+
 ## Demo
 ![image](public/assets/budgetAppDemo.gif)
 
