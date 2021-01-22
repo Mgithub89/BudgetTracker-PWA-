@@ -24,7 +24,7 @@ View the [Deloyed App](https://sleepy-waters-39572.herokuapp.com)
 * install all the dependencies(npm i ...). 
 
 ## Demo
-![image](public/assets/BudgetAppDemo.gif)
+![image](public/assets/budgetAppDemo.gif)
 
 ## Technologies used
 * HTML
