@@ -21,15 +21,11 @@ View the [Deloyed App](https://sleepy-waters-39572.herokuapp.com)
 
 ## Installation
 * Clone repo.
-* install all the dependencies(npm i ...).
+* install all the dependencies(npm i ...). 
 
-## usage 
+## Demo
+![image](public/assets/budgetAppDemo.gif)
 
-## Screen Shoot
-1. Last Workout
-![image](public/Assets/fitness.PNG)
-2.Last Week Summary
-![image](public/Assets/fitness2.PNG)
 
 ## Technologies used
 * HTML
