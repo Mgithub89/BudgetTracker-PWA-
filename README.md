@@ -26,7 +26,6 @@ View the [Deloyed App](https://sleepy-waters-39572.herokuapp.com)
 ## Demo
 ![image](public/assets/BudgetAppDemo.gif)
 
-
 ## Technologies used
 * HTML
 * CSS
