@@ -9,8 +9,8 @@ const FILES_TO_CACHE = [
     '/assets/js/db.js',
     '/assets/images/icons/icon-192x192.png',
     '/assets/images/icons/icon-512x512.png',
-    '/manifest.webmanifest',
-    // 'https://fonts.googleapis.com/css?family=Istok+Web|Montserrat:800&display=swap',
+    '/manifest.webmanifest'
+
 
 ];
 
@@ -52,7 +52,7 @@ self.addEventListener("activate", function (evt) {
 
 // fetch
 self.addEventListener("fetch", function (evt) {
-    if (evt.request.url.includes("/api/transaction")) {
+    if (evt.request.url.includes("/api/")) {
         evt.respondWith(
             caches.open(DATA_CACHE_NAME).then(cache => {
                 return fetch(evt.request)
